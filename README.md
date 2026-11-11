@@ -18,9 +18,13 @@ Features
 - Individual Visibility: Show or hide controls according to your preference.
 - Reset Layout: Restore the default control arrangement.
 
-Screenshots
+## Screenshots
 
-Screenshots of the application will be added here.
+<p align="center">
+  <img src="screenshots/home-screen.jpg" width="30%" alt="TJay Input Bridge Home Screen">
+  <img src="screenshots/floating-controls.jpg" width="30%" alt="TJay Input Bridge Floating Controls">
+  <img src="screenshots/settings.jpg" width="30%" alt="TJay Input Bridge Settings">
+</p>
 
 Requirements
 
