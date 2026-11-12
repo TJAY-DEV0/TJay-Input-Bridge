@@ -35,7 +35,6 @@ Powered by Shizuku, it allows your Android device to provide virtual gamepad inp
   <img src="screenshots/home-screen.jpg" width="250">
 </p>🎮 Floating Controls
 
-### 🎮 Floating controll 
 <p align="center">
   <img src="screenshots/floating-controls.jpg" width="250">
 </p>⚙️ Controller Settings
