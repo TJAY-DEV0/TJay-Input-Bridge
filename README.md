@@ -9,13 +9,13 @@
 
 ---
 
-📱 About
+## 📱 About
 
 TJay Input Bridge is an Android companion application that creates a virtual gamepad and provides floating on-screen controls for interacting with supported games and emulators.
 
 Powered by Shizuku, it allows your Android device to provide virtual gamepad input without requiring a physical controller.
 
-✨ Features
+## ✨ Features
 
 - 🎮 Virtual Gamepad
 - 🕹️ Floating On-Screen Controls
@@ -27,9 +27,9 @@ Powered by Shizuku, it allows your Android device to provide virtual gamepad inp
 - 🔄 Reset Controller Layout
 - ⚙️ Shizuku Integration
 
-📸 Screenshots
+## 📸 Screenshots
 
-🏠 Home Screen
+##🏠 Home Screen
 
 <p align="center">
   <img src="screenshots/home-screen.jpg" width="250">
@@ -43,7 +43,7 @@ Powered by Shizuku, it allows your Android device to provide virtual gamepad inp
   <img src="screenshots/settings.jpg" width="250">
 </p>---
 
-📥 Download
+## 📥 Download
 
 Get the latest version of TJay Input Bridge from GitHub Releases.
 
@@ -53,7 +53,7 @@ Get the latest version of TJay Input Bridge from GitHub Releases.
 
 ---
 
-🛠️ Built With
+## 🛠️ Built With
 
 - Java
 - C++
@@ -62,14 +62,14 @@ Get the latest version of TJay Input Bridge from GitHub Releases.
 - Shizuku
 - AndroidIDE-Rv2
 
-📋 Requirements
+## 📋 Requirements
 
 - Android 7.0 (API 24) or newer.
 - Shizuku installed and properly configured.
 - A compatible game or emulator.
 - Required permissions granted to the application.
 
-🚀 Installation
+## 🚀 Installation
 
 1. Download the latest APK from "Releases" (../../releases).
 2. Install the APK on your Android device.
@@ -78,21 +78,21 @@ Get the latest version of TJay Input Bridge from GitHub Releases.
 5. Start the virtual gamepad.
 6. Enable the floating controls and open your preferred game or emulator.
 
-⚠️ Compatibility
+## ⚠️ Compatibility
 
 Compatibility depends on the Android version, Shizuku configuration, and the game or emulator being used.
 
-📄 Copyright
+## 📄 Copyright
 
 © 2026 Tijani Usman. All rights reserved.
 
 TJay Input Bridge is proprietary software. Its source code and application are not licensed for redistribution, modification, or reuse without permission from the copyright holder.
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 
-TJay
+**TJay/Tijani Usman**
 
-GitHub: "@TJAY-DEV0" (https://github.com/TJAY-DEV0)
+GitHub: [@TJAY-DEV0](https://github.com/TJAY-DEV0)
 
 ---
 
