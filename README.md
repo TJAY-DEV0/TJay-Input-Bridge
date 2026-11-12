@@ -2,10 +2,10 @@
 > A virtual gamepad bridge for Android games and emulators.
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
-""Java" (https://img.shields.io/badge/Built%20with-Java-orange.svg)" (https://www.java.com/)
-""C++" (https://img.shields.io/badge/Native-C%2B%2B-blue.svg)" (https://isocpp.org/)
-""Shizuku" (https://img.shields.io/badge/Powered%20by-Shizuku-blueviolet.svg)" (https://shizuku.rikka.app/)
-""Version" (https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)" (../../releases/latest)
+[![Java](https://img.shields.io/badge/Built%20with-Java-orange.svg)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/Native-C%2B%2B-blue.svg)](https://isocpp.org/)
+[![Shizuku](https://img.shields.io/badge/Powered%20by-Shizuku-blueviolet.svg)](https://shizuku.rikka.app/)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](../../releases/latest)
 
 ---
 
