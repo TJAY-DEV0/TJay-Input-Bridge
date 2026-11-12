@@ -1,69 +1,100 @@
 TJay Input Bridge
 
-A virtual gamepad bridge for Android.
+«A virtual gamepad bridge for Android games and emulators.»
+
+""Android" (https://img.shields.io/badge/Platform-Android-green.svg)" (https://www.android.com/)
+""Java" (https://img.shields.io/badge/Built%20with-Java-orange.svg)" (https://www.java.com/)
+""C++" (https://img.shields.io/badge/Native-C%2B%2B-blue.svg)" (https://isocpp.org/)
+""Shizuku" (https://img.shields.io/badge/Powered%20by-Shizuku-blueviolet.svg)" (https://shizuku.rikka.app/)
+""Version" (https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)" (../../releases/latest)
+
+---
+
+📱 About
 
 TJay Input Bridge is an Android companion application that creates a virtual gamepad and provides floating on-screen controls for interacting with supported games and emulators.
 
 Powered by Shizuku, it allows your Android device to provide virtual gamepad input without requiring a physical controller.
 
-Features
+✨ Features
 
-- Virtual Gamepad: Creates a virtual gamepad recognized by Android.
-- Floating Controls: Access gamepad buttons through an on-screen overlay.
-- D-Pad Controls: Directional controls for movement and navigation.
-- Action Buttons: A, B, X and Y buttons.
-- Shoulder Buttons: L and R controls.
-- System Controls: Select and Start buttons.
-- Customizable Layout: Adjust the overlay's size and opacity.
-- Individual Visibility: Show or hide controls according to your preference.
-- Reset Layout: Restore the default control arrangement.
+- 🎮 Virtual Gamepad
+- 🕹️ Floating On-Screen Controls
+- 🎯 D-pad and A/B/X/Y Buttons
+- 🎮 L/R Shoulder Buttons
+- 📐 Customizable Controller Layout
+- 🎨 Adjustable Control Opacity
+- 👁️ Individual Button Visibility
+- 🔄 Reset Controller Layout
+- ⚙️ Shizuku Integration
 
-## Screenshots
+📸 Screenshots
+
+🏠 Home Screen
 
 <p align="center">
-  <img src="screenshots/home-screen.jpg" width="30%" alt="TJay Input Bridge Home Screen">
-  <img src="screenshots/floating-controls.jpg" width="30%" alt="TJay Input Bridge Floating Controls">
-  <img src="screenshots/settings.jpg" width="30%" alt="TJay Input Bridge Settings">
-</p>
+  <img src="screenshots/home-screen.jpg" width="250">
+</p>🎮 Floating Controls
 
-Requirements
+<p align="center">
+  <img src="screenshots/floating-controls.jpg" width="250">
+</p>⚙️ Controller Settings
 
-- Android 7.0 (API 24) or later.
-- Shizuku installed and properly running.
-- Shizuku authorization granted to TJay Input Bridge.
-- A compatible game or emulator that supports Android virtual gamepad input.
+<p align="center">
+  <img src="screenshots/settings.jpg" width="250">
+</p>---
 
-Installation
+📥 Download
 
-1. Download the latest APK from the "Releases" (https://github.com/TJAY-DEV0/TJay-Input-Bridge/releases) page.
-2. Install the APK on your Android device.
-3. Install and configure Shizuku if you have not already done so.
-4. Open TJay Input Bridge.
-5. Grant the required Shizuku authorization.
-6. Start the virtual gamepad and configure the floating controls.
+Get the latest version of TJay Input Bridge from GitHub Releases.
 
-Compatibility
+<p align="center">"⬇️ Download TJay Input Bridge" (../../releases/latest)
 
-TJay Input Bridge is designed to work with Android applications that can recognize virtual gamepad input.
-
-Compatibility may vary depending on the game, emulator, Android version and device configuration.
-
-Version
-
-Current release: v1.0.0
-
-Developer
-
-TJay
-
-Built to make external game controls more accessible.
-
-License
-
-TJay Input Bridge is proprietary software. All rights are reserved by the developer.
-
-See the "LICENSE" (LICENSE) file for details.
+</p>«Note: TJay Input Bridge is currently distributed as an APK for Android devices.»
 
 ---
 
+🛠️ Built With
+
+- Java
+- C++
+- Android SDK
+- Android NDK
+- Shizuku
+- AndroidIDE-Rv2
+
+📋 Requirements
+
+- Android 7.0 (API 24) or newer.
+- Shizuku installed and properly configured.
+- A compatible game or emulator.
+- Required permissions granted to the application.
+
+🚀 Installation
+
+1. Download the latest APK from "Releases" (../../releases).
+2. Install the APK on your Android device.
+3. Install and configure "Shizuku" (https://shizuku.rikka.app/).
+4. Open TJay Input Bridge and grant Shizuku permission.
+5. Start the virtual gamepad.
+6. Enable the floating controls and open your preferred game or emulator.
+
+⚠️ Compatibility
+
+Compatibility depends on the Android version, Shizuku configuration, and the game or emulator being used.
+
+📄 Copyright
+
 © 2026 Tijani Usman. All rights reserved.
+
+TJay Input Bridge is proprietary software. Its source code and application are not licensed for redistribution, modification, or reuse without permission from the copyright holder.
+
+👨‍💻 Developer
+
+TJay
+
+GitHub: "@TJAY-DEV0" (https://github.com/TJAY-DEV0)
+
+---
+
+⭐ If you find TJay Input Bridge useful, consider giving the project a star!
