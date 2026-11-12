@@ -1,8 +1,7 @@
-TJay Input Bridge
+# TJay Input Bridge
+> A virtual gamepad bridge for Android games and emulators.
 
-«A virtual gamepad bridge for Android games and emulators.»
-
-""Android" (https://img.shields.io/badge/Platform-Android-green.svg)" (https://www.android.com/)
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
 ""Java" (https://img.shields.io/badge/Built%20with-Java-orange.svg)" (https://www.java.com/)
 ""C++" (https://img.shields.io/badge/Native-C%2B%2B-blue.svg)" (https://isocpp.org/)
 ""Shizuku" (https://img.shields.io/badge/Powered%20by-Shizuku-blueviolet.svg)" (https://shizuku.rikka.app/)
